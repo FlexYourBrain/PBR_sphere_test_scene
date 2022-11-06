@@ -1,0 +1,7 @@
+mesh: "/assets/models/PBR_Spheres.glb"
+material: "/assets/material/Basic3d.material"
+textures: "/assets/texture/PBR/Spheres_Albedo.png"
+skeleton: ""
+animations: ""
+default_animation: ""
+name: "unnamed"

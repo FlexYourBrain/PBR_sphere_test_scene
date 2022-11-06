@@ -1,0 +1,7 @@
+mesh: "/builtins/assets/meshes/quad.dae"
+material: "/assets/material/grid.material"
+textures: "/assets/texture/grid.png"
+skeleton: ""
+animations: ""
+default_animation: ""
+name: "unnamed"
